@@ -1,11 +1,12 @@
-### 👋 Hello World, I'm Walyson!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=63&pause=1000&color=0194DD&background=050F2C00&center=true&vCenter=true&random=false&width=702&height=155&lines=Hello+World%2C+I'm+Walyson;I'm+a+Software+Engineer)](https://git.io/typing-svg)
+###
 ---
-
 👨🏻‍💻 Engenheiro de Software compartilhando a minha jornada e aprendizados em tecnologia<br/>
 👨🏻‍🎓 Estudante de Ciência da Computação na Univesidade Cruzeiro do Sul<br/>
 🌱 Atualmente aprendendo .NET<br/>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/walyvieira) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/walysonvieira) 
+###
 ---
 
 ### 🧰 Languages and Tools:
